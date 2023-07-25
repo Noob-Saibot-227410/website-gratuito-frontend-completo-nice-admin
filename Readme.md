@@ -42,10 +42,10 @@ https://github.com/Noob-Saibot-227410/website-gratuito-api-template-pokemon/asse
 
 ## **COMO USAR E REQUISITOS**
 
-- 1º git clone https://github.com/Noob-Saibot-227410/website-gratuito-api-template-pokemon.git;
+- 1º git clone;
 - 2º Descompactar a pasta zipada clicando com o botão direito do mouse;
 - 3º Entre no diretório que descompactou os arquivos;
-- 4º Agora só aproveitar e navegar por todo o FrontEnd, com base em suas necessidades de projeto você criar seu backend de acordo com o template que utilizar 😉
+- 4º Agora só aproveitar 😉
 
 <hr>
 
